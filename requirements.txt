@@ -1,0 +1,7 @@
+streamlit==1.29.0
+tensorflow==2.17.1
+numpy==1.26.4  # Downgraded to a version compatible with TensorFlow
+pandas==2.0.3
+scikit-learn==1.3.0
+nltk==3.8.1
+pillow==10.0.0
